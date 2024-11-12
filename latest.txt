@@ -2,5 +2,8 @@ laskfsdljflsdjfsd
 
 
 
+updating the file and its versions will changed.
+if someone tries to merge it will fail because of conflict if you dont download this latest file.
+
 trying to update code from local to remote
 and going to merge changes to main branch.
